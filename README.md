@@ -2,7 +2,7 @@
 
 台灣團隊常駐中國七年，對付天朝網路封鎖，我們有豐富的經驗，是台商台幹們最貼心的上網助手！
 
-立即註冊：[https://traveler.rapps.fun/#/login?code=tw](https://traveler.rapps.fun/#/login?code=tw)
+立即註冊：[https://getrapps.com/#/login?code=tw](https://getrapps.com/#/login?code=tw)
 
 ⬇⬇⬇⬇⬇ 往下看更多介紹（文末有優惠券）  ⬇⬇⬇⬇⬇
 
@@ -76,7 +76,7 @@
 
 首先，您現在看到的本頁面是有機會被封鎖的，只做海外宣傳使用！新用戶可以善用本頁瞭解基本資訊，更多疑問也可到以下網址洽詢線上客服。
 
-如果您有意購買我司方案，請務必另外註冊並收藏官網用戶中心的網址 **[https://traveler.rapps.fun](https://traveler.rapps.fun/)，入境後一樣可以打開。**
+如果您有意購買我司方案，請務必另外註冊並收藏官網用戶中心的網址 **[https://getrapps.com](https://getrapps.com)，入境後一樣可以打開。**
 
 ### 4. 變更服務方案或流量
 
@@ -99,7 +99,7 @@
 * 登入<font color=blue>【用戶中心 -> 聯絡客服】</font>，此為人工聯絡單，任何時間均可傳送訊息，工作時間回覆。
 * （無須註冊及登入）打開 `用戶中心 - > 右下角線上客服`，可傳即時或離線訊息，工作時間回覆。未註冊可在客服對話前的 `網站帳號` 欄填入其他個人 Email。
 * Line 客服：請搜尋 `@travelervpn` 加我們官方帳號為好友（搜尋要加 `@`），任何時間均可傳送訊息，工作時間回覆。
-* Email：[service@rapps.fun](mailto:service@rapps.fun) 任何時間均可傳送訊息，工作時間回覆。
+* Email：[service@getrapps.com](mailto:service@getrapps.com) 任何時間均可傳送訊息，工作時間回覆。
 
 * * *
 
@@ -121,7 +121,7 @@
 
 * * *
 
-立即註冊：[https://traveler.rapps.fun/#/login?code=tw](https://traveler.rapps.fun/#/login?code=tw)
+立即註冊：[https://getrapps.com/#/login?code=tw](https://getrapps.com/#/login?code=tw)
 
 * * *
 
