@@ -13,7 +13,7 @@
 ### 總覽
 
 ![1](https://travelertw.github.io/image/1.png)
-![2](https://travelertw.github.io/image/2.png)
+![2](https://travelertw.github.io/image/2.jpg)
 ![3](https://travelertw.github.io/image/3.png)
 ![4](https://travelertw.github.io/image/4.png)
 
