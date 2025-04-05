@@ -10,6 +10,13 @@
 
 ## 資費方案選擇
 
+### 資費方案總覽
+
+![1](https://travelertw.github.io/image/1.png)
+![2](https://travelertw.github.io/image/2.png)
+![3](https://travelertw.github.io/image/3.png)
+![4](https://travelertw.github.io/image/4.png)
+
 ### 情況一：短期到中國大陸出差或旅遊
 
 推薦如下方案：
