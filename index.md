@@ -2,7 +2,7 @@
 
 台灣團隊常駐中國七年，對付天朝網路封鎖，我們有豐富的經驗，是台商台幹們最貼心的上網助手！
 
-立即註冊：[https://getrapps.com/#/login?code=tw](https://getrapps.com/#/login?code=tw)
+立即註冊：[https://getrapps.org/#/login?code=tw](https://getrapps.org/#/login?code=tw)
 
 ⬇⬇⬇⬇⬇ 往下看更多介紹（文末有優惠券）  ⬇⬇⬇⬇⬇
 
@@ -12,10 +12,10 @@
 
 ### 總覽
 
-![1](https://travelertw.github.io/image/1.png)
-![2](https://travelertw.github.io/image/2.jpg)
-![3](https://travelertw.github.io/image/3.png)
-![4](https://travelertw.github.io/image/4.png)
+![1](image/1.png)
+![2](image/2.jpg)
+![3](image/3.png)
+![4](image/4.png)
 
 * * *
 
@@ -85,7 +85,7 @@
 
 <font color=red>請知悉，您現在看到的本頁面是有機會被封鎖的，只做海外宣傳使用！</font>
 
-如果您有意購買我司方案，請務必另外註冊並收藏官網用戶中心的網址【[https://getrapps.com](https://getrapps.com/)】，入境後一樣可以打開。
+如果您有意購買我司方案，請務必另外註冊並收藏官網用戶中心的網址【[https://getrapps.org](https://getrapps.org/)】，入境後一樣可以打開。
 
 <font color=blue>為保證未來官網網頁不被封鎖，其他更詳細資訊需要註冊後瀏覽！新用戶可以善用本頁瞭解基本資訊，更多疑問也可以洽詢線上客服，或徑行前往官網註冊並參閱教學庫的內容。但請不要只收藏本頁面喔！</font>
 
@@ -132,7 +132,7 @@
 
 * * *
 
-立即註冊：[https://getrapps.com/#/login?code=tw](https://getrapps.com/#/login?code=tw)
+立即註冊：[https://getrapps.org/#/login?code=tw](https://getrapps.org/#/login?code=tw)
 
 * * *
 
