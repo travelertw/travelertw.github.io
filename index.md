@@ -1,7 +1,7 @@
 ## Traveler VPN 簡介
 
 ---
-redirect_to: https://zestro.eu.org/
+redirect_to: https://zestro.eu.org/archives/376
 ---
 
 
