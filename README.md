@@ -2,7 +2,7 @@
 
 台灣團隊常駐中國七年，對付天朝網路封鎖，我們有豐富的經驗，是台商台幹們最貼心的上網助手！
 
-立即註冊：[https://getrapps.com/#/login?code=tw](https://getrapps.com/#/login?code=tw)
+立即註冊：[https://getrapps.org/#/login?code=tw](https://getrapps.org/#/login?code=tw)
 
 ⬇⬇⬇⬇⬇ 往下看更多介紹（文末有優惠券）  ⬇⬇⬇⬇⬇
 
@@ -76,7 +76,7 @@
 
 首先，您現在看到的本頁面是有機會被封鎖的，只做海外宣傳使用！新用戶可以善用本頁瞭解基本資訊，更多疑問也可到以下網址洽詢線上客服。
 
-如果您有意購買我司方案，請務必另外註冊並收藏官網用戶中心的網址 **[https://getrapps.com](https://getrapps.com)，入境後一樣可以打開。**
+如果您有意購買我司方案，請務必另外註冊並收藏官網用戶中心的網址 **[https://getrapps.org](https://getrapps.org)，入境後一樣可以打開。**
 
 ### 4. 變更服務方案或流量
 
@@ -121,10 +121,17 @@
 
 * * *
 
-立即註冊：[https://getrapps.com/#/login?code=tw](https://getrapps.com/#/login?code=tw)
+立即註冊：[https://getrapps.org/#/login?code=tw](https://getrapps.org/#/login?code=tw)
 
 * * *
 
 歡迎隨時購買，隨時續訂，隨時換方案，隨時重置流量，讓您如入無牆之境，實現真正的上網自由！
 
 走過路過不要錯過哦~
+
+* * *
+
+我們的 Blog：[旅行者 | Zestro 的天朝網路見聞和 3C 雜談](https://zestro.eu.org/)
+我們的 Line：[Traveler VPN](https://line.me/R/ti/p/@xmb5854z)
+我們的 Facebook：[Traveler VPN 跨境網路服務](https://www.facebook.com/traveler.vpn/)
+我們的 Telegram：[Traveler 客服助手](https://t.me/traveler_push_bot)

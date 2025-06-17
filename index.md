@@ -139,3 +139,10 @@
 歡迎隨時購買，隨時續訂，隨時換方案，隨時重置流量，讓您如入無牆之境，實現真正的上網自由！
 
 走過路過不要錯過哦~
+
+* * *
+
+我們的 Blog：[旅行者 | Zestro 的天朝網路見聞和 3C 雜談](https://zestro.eu.org/)
+我們的 Line：[Traveler VPN](https://line.me/R/ti/p/@xmb5854z)
+我們的 Facebook：[Traveler VPN 跨境網路服務](https://www.facebook.com/traveler.vpn/)
+我們的 Telegram：[Traveler 客服助手](https://t.me/traveler_push_bot)
