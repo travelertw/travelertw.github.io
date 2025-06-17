@@ -1,5 +1,10 @@
 ## Traveler VPN 簡介
 
+---
+redirect_to: https://zestro.eu.org/
+---
+
+
 台灣團隊常駐中國七年，對付天朝網路封鎖，我們有豐富的經驗，是台商台幹們最貼心的上網助手！
 
 立即註冊：[https://getrapps.org/#/login?code=tw](https://getrapps.org/#/login?code=tw)
@@ -110,7 +115,9 @@
 * 登入<font color=blue>【用戶中心 -> 聯絡客服】</font>，此為人工聯絡單，任何時間均可傳送訊息，工作時間回覆。
 * （無須註冊及登入）打開<font color=blue>【用戶中心 - > 右下角線上客服對話】</font>，可傳即時或離線訊息，工作時間回覆。未註冊可在客服對話前的 **「網站帳號」** 欄填入其他個人 Email。
 * Line 客服：請搜尋<font color=blue>【@travelervpn】</font>加我們官方帳號為好友（搜尋要加@），任何時間均可傳送訊息，工作時間回覆。
+* Telegram： [Traveler 客服助手](https://t.me/traveler_push_bot)，任何時間均可傳送訊息，工作時間回覆。
 * Email：[service@getrapps.com](mailto:service@getrapps.com) 任何時間均可傳送訊息，工作時間回覆。
+* Facebook： [Traveler VPN 跨境網路服務](https://www.facebook.com/traveler.vpn/)
 
 * * *
 
@@ -140,12 +147,3 @@
 
 走過路過不要錯過哦~
 
-* * *
-
-我們的 Blog： [旅行者 - Zestro 的天朝網路見聞和 3C 雜談](https://zestro.eu.org/)
-
-我們的 Line： [Traveler VPN](https://line.me/R/ti/p/@xmb5854z)
-
-我們的 Facebook： [Traveler VPN 跨境網路服務](https://www.facebook.com/traveler.vpn/)
-
-我們的 Telegram： [Traveler 客服助手](https://t.me/traveler_push_bot)

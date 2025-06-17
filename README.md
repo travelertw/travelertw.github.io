@@ -99,7 +99,9 @@
 * 登入<font color=blue>【用戶中心 -> 聯絡客服】</font>，此為人工聯絡單，任何時間均可傳送訊息，工作時間回覆。
 * （無須註冊及登入）打開 `用戶中心 - > 右下角線上客服`，可傳即時或離線訊息，工作時間回覆。未註冊可在客服對話前的 `網站帳號` 欄填入其他個人 Email。
 * Line 客服：請搜尋 `@travelervpn` 加我們官方帳號為好友（搜尋要加 `@`），任何時間均可傳送訊息，工作時間回覆。
+* Telegram： [Traveler 客服助手](https://t.me/traveler_push_bot)，任何時間均可傳送訊息，工作時間回覆。
 * Email：[service@getrapps.com](mailto:service@getrapps.com) 任何時間均可傳送訊息，工作時間回覆。
+* Facebook： [Traveler VPN 跨境網路服務](https://www.facebook.com/traveler.vpn/)
 
 * * *
 
