@@ -131,7 +131,7 @@
 
 * * *
 
-我們的 Blog： [旅行者 | Zestro 的天朝網路見聞和 3C 雜談](https://zestro.eu.org/)
+我們的 Blog： [旅行者 - Zestro 的天朝網路見聞和 3C 雜談](https://zestro.eu.org/)
 
 我們的 Line： [Traveler VPN](https://line.me/R/ti/p/@xmb5854z)
 
