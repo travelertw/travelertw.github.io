@@ -1,9 +1,8 @@
-## Traveler VPN 簡介
-
 ---
 redirect_to: https://zestro.eu.org/archives/376
 ---
 
+## Traveler VPN 簡介
 
 台灣團隊常駐中國七年，對付天朝網路封鎖，我們有豐富的經驗，是台商台幹們最貼心的上網助手！
 
